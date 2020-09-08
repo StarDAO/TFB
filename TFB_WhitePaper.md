@@ -1,3 +1,5 @@
+TrxFastBalance (TFB) white paper
+
 1.Total issuance
 IC is TRC20 token issued based on TRON network.
 The initial circulation is 50,000,000, which will increase or decrease according to the set conditions.
@@ -21,10 +23,14 @@ It is planned to rebase the holding account at 20:00 Singapore time every day ac
 
 3. Product Features
 TFB is a digital commodity whose price is anchored to TRX. When the price deviates from 1TFB=1TRX, the quantity will be changed from the holding account to adapt to market demand, so that the price of 1TFB is anchored to 1TRX.
-
 TFB can be understood as a fast version of AMPL for price anchoring TRX.
 
-![image](https://raw.githubusercontent.com/TrxFastBalance/TFB/master/tbfampl.png)
+Comparison of TFB and AMPL
+Name	TFB	AMPL
+Anchor price	1TFB = 1TRX	1AMPL = 1USD
+Initial supply	50,000,000	50,000,000
+Supply change	s=s0*(p-1)/5	s=s0*(p-1)/10
+s: supply change  s0: current total  p: market price
 
 4. Risk tips
 The price and quantity of TFB may change rapidly in the short term, creating short-term opportunities while containing risks, which is suitable for investors with a certain risk tolerance.

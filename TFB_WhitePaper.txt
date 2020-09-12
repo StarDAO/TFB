@@ -16,7 +16,7 @@ s=s0*(p-1)/k
 s: change in supply
 s0: current total
 p: market price, Take the average of the previous 24 hours here
-k: parameter k=5, this parameter can be adjusted
+k: parameter k=5
 p is in the 0.95-1.05TRX price range s=0
 
 It is planned to rebase the holding account at 6:00 Singapore time every day according to the change in supply, and transfers cannot be made during this period.

@@ -1,4 +1,4 @@
-TrxFastBalance (TFB) white paper
+TFastBalance (TFB) white paper
 
 1.Total issuance
 IC is TRC20 token issued based on TRON network.
@@ -11,7 +11,7 @@ Initial circulation distribution:
 30% foundation. Support the long-term stable development of the project.
 20% technical team. The lock-up period is half a year and will be released linearly after unlocking and lasts for one year.
 
-IC will first trade on the decentralized exchange JustSwap, with TRX as the pricing unit, the initial price is 1TFB=1TRX, and this price will always be anchored. The amount of change in TFB supply is determined by the following formula:
+TFB will first trade on the decentralized exchange JustSwap, with TRX as the pricing unit, the initial price is 1TFB=1TRX, and this price will always be anchored. The amount of change in TFB supply is determined by the following formula:
 s=s0*(p-1)/k
 s: change in supply
 s0: current total

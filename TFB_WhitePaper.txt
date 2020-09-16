@@ -22,7 +22,7 @@ p is in the 0.95-1.05TRX price range s=0
 It is planned to rebase the holding account at 6:00 Singapore time every day according to the change in supply, and transfers cannot be made during this period.
 
 3. Product Features
-TFB is a digital commodity whose price is anchored to TRX. When the price deviates from 1TFB=1TRX, the quantity will be changed from the holding account to adapt to market demand, so that the price of 1TFB is anchored to 1TRX.
+TFB is a flexible token supply protocol. TFB is a digital commodity with price anchored TRX. When the price deviates from 1TFB=1TRX, the quantity will be changed from the holding account to adapt to market demand, so that the price of 1TFB is anchored to 1TRX.
 TFB can be understood as a fast version of AMPL for price anchoring TRX.
 
 Comparison of TFB and AMPL
